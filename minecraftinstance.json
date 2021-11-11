@@ -48,7 +48,7 @@
   "cachedScans": [],
   "isValid": true,
   "lastPreviousMatchUpdate": "2021-11-11T17:56:09.2722607Z",
-  "lastRefreshAttempt": "2021-11-11T18:58:53.5221059+01:00",
+  "lastRefreshAttempt": "2021-11-11T19:01:20.9683651+01:00",
   "isEnabled": true,
   "isPinned": false,
   "gameVersion": "1.12.2",
@@ -73,6 +73,333 @@
   "preferenceShowAddOnInfo": true,
   "installDate": "2021-11-11T17:56:05.5453671Z",
   "installedAddons": [
+    {
+      "addonID": 64578,
+      "gameInstanceID": "89ceac57-3059-44ae-93ba-429812be9881",
+      "installedFile": {
+        "id": 3328811,
+        "displayName": "Ender IO - 5.3.70",
+        "fileName": "EnderIO-1.12.2-5.3.70.jar",
+        "fileDate": "2021-05-28T23:09:34.453Z",
+        "fileLength": 8946575,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3328/811/EnderIO-1.12.2-5.3.70.jar",
+        "isAlternate": false,
+        "alternateFileId": 3328812,
+        "dependencies": [
+          {
+            "id": 64951402,
+            "addonId": 220318,
+            "type": 2,
+            "fileId": 3328811
+          },
+          {
+            "id": 64951410,
+            "addonId": 225643,
+            "type": 2,
+            "fileId": 3328811
+          },
+          {
+            "id": 64951400,
+            "addonId": 74120,
+            "type": 2,
+            "fileId": 3328811
+          },
+          {
+            "id": 64951405,
+            "addonId": 227083,
+            "type": 2,
+            "fileId": 3328811
+          },
+          {
+            "id": 64951403,
+            "addonId": 223794,
+            "type": 2,
+            "fileId": 3328811
+          },
+          {
+            "id": 64951419,
+            "addonId": 59751,
+            "type": 2,
+            "fileId": 3328811
+          },
+          {
+            "id": 64951417,
+            "addonId": 222880,
+            "type": 2,
+            "fileId": 3328811
+          },
+          {
+            "id": 64951411,
+            "addonId": 306028,
+            "type": 2,
+            "fileId": 3328811
+          },
+          {
+            "id": 64951413,
+            "addonId": 225561,
+            "type": 2,
+            "fileId": 3328811
+          },
+          {
+            "id": 64951406,
+            "addonId": 231951,
+            "type": 2,
+            "fileId": 3328811
+          },
+          {
+            "id": 64951421,
+            "addonId": 61811,
+            "type": 2,
+            "fileId": 3328811
+          },
+          {
+            "id": 64951418,
+            "addonId": 231868,
+            "type": 3,
+            "fileId": 3328811
+          },
+          {
+            "id": 64951414,
+            "addonId": 242638,
+            "type": 2,
+            "fileId": 3328811
+          },
+          {
+            "id": 64951420,
+            "addonId": 267602,
+            "type": 2,
+            "fileId": 3328811
+          },
+          {
+            "id": 64951415,
+            "addonId": 245211,
+            "type": 2,
+            "fileId": 3328811
+          },
+          {
+            "id": 64951401,
+            "addonId": 243076,
+            "type": 2,
+            "fileId": 3328811
+          },
+          {
+            "id": 64951416,
+            "addonId": 223008,
+            "type": 2,
+            "fileId": 3328811
+          },
+          {
+            "id": 64951407,
+            "addonId": 228404,
+            "type": 2,
+            "fileId": 3328811
+          },
+          {
+            "id": 64951409,
+            "addonId": 238222,
+            "type": 2,
+            "fileId": 3328811
+          },
+          {
+            "id": 64951412,
+            "addonId": 250277,
+            "type": 2,
+            "fileId": 3328811
+          },
+          {
+            "id": 64951408,
+            "addonId": 235279,
+            "type": 2,
+            "fileId": 3328811
+          },
+          {
+            "id": 64951404,
+            "addonId": 74072,
+            "type": 2,
+            "fileId": 3328811
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 3279576490,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 1755672418,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "crazypants",
+            "fingerprint": 248345352,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 3584556454,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 649772633,
+            "type": 3,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 3310876847,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "sortableGameVersion": [
+          {
+            "gameVersionPadded": "0000000001.0000000012.0000000002",
+            "gameVersion": "1.12.2",
+            "gameVersionReleaseDate": "2017-09-18T05:00:00Z",
+            "gameVersionName": "1.12.2",
+            "gameVersionTypeId": 628
+          }
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 6,
+        "restrictProjectFileAccess": 1,
+        "projectStatus": 4,
+        "renderCacheId": 2333660,
+        "projectId": 64578,
+        "packageFingerprintId": 671736487,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameVersionMappingId": 2985647,
+        "gameVersionId": 4458,
+        "gameId": 432,
+        "isServerPack": false,
+        "FileNameOnDisk": "EnderIO-1.12.2-5.3.70.jar"
+      },
+      "dateInstalled": "2021-11-11T18:00:30.4373552Z",
+      "dateUpdated": "2021-11-11T18:00:30.4373552Z",
+      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
+      "addonID": 278494,
+      "gameInstanceID": "89ceac57-3059-44ae-93ba-429812be9881",
+      "installedFile": {
+        "id": 3327893,
+        "displayName": "FoamFix 0.10.14 (1.12.2)",
+        "fileName": "foamfix-0.10.14-1.12.2.jar",
+        "fileDate": "2021-05-28T06:54:30.367Z",
+        "fileLength": 242897,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3327/893/foamfix-0.10.14-1.12.2.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 2804185603,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "foamfix_at.cfg",
+            "fingerprint": 4201768989,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "foamfix_runtime_at.cfg",
+            "fingerprint": 3277189722,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 4069919274,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 1257586546,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "pl",
+            "fingerprint": 3105475686,
+            "type": 3,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 2480667074,
+        "gameVersion": [
+          "Forge",
+          "1.12.2"
+        ],
+        "sortableGameVersion": [
+          {
+            "gameVersionPadded": "0",
+            "gameVersion": "",
+            "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
+            "gameVersionName": "Forge",
+            "gameVersionTypeId": 68441
+          },
+          {
+            "gameVersionPadded": "0000000001.0000000012.0000000002",
+            "gameVersion": "1.12.2",
+            "gameVersionReleaseDate": "2017-09-18T05:00:00Z",
+            "gameVersionName": "1.12.2",
+            "gameVersionTypeId": 628
+          }
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 6,
+        "restrictProjectFileAccess": 1,
+        "projectStatus": 4,
+        "renderCacheId": 2332439,
+        "projectId": 278494,
+        "packageFingerprintId": 671262452,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameVersionMappingId": 2983312,
+        "gameVersionId": 4458,
+        "gameId": 432,
+        "isServerPack": false,
+        "FileNameOnDisk": "foamfix-0.10.14-1.12.2.jar"
+      },
+      "dateInstalled": "2021-11-11T17:59:23.1954648Z",
+      "dateUpdated": "2021-11-11T17:59:23.1954648Z",
+      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
     {
       "addonID": 292785,
       "gameInstanceID": "89ceac57-3059-44ae-93ba-429812be9881",
